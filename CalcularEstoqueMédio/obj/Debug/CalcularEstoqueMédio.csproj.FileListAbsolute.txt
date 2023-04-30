@@ -1,0 +1,8 @@
+C:\Users\lucas\source\repos\CalcularEstoqueMédio\CalcularEstoqueMédio\bin\Debug\CalcularEstoqueMédio.exe.config
+C:\Users\lucas\source\repos\CalcularEstoqueMédio\CalcularEstoqueMédio\bin\Debug\CalcularEstoqueMédio.exe
+C:\Users\lucas\source\repos\CalcularEstoqueMédio\CalcularEstoqueMédio\bin\Debug\CalcularEstoqueMédio.pdb
+C:\Users\lucas\source\repos\CalcularEstoqueMédio\CalcularEstoqueMédio\obj\Debug\CalcularEstoqueMédio.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\CalcularEstoqueMédio\CalcularEstoqueMédio\obj\Debug\CalcularEstoqueMédio.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\source\repos\CalcularEstoqueMédio\CalcularEstoqueMédio\obj\Debug\CalcularEstoqueMédio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\CalcularEstoqueMédio\CalcularEstoqueMédio\obj\Debug\CalcularEstoqueMédio.exe
+C:\Users\lucas\source\repos\CalcularEstoqueMédio\CalcularEstoqueMédio\obj\Debug\CalcularEstoqueMédio.pdb
